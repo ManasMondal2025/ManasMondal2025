@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00E5A0&height=200&section=header&text=Manas%20Mondal&fontSize=52&fontColor=00E5A0&desc=MSc%20Data%20Science%20%26%20AI%20%7C%20Computer%20Vision%20%26%20Deep%20Learning&descAlignY=75&descSize=20&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00E5A0&height=200&section=header&text=Manas%20Mondal&fontSize=52&fontColor=00E5A0&desc=MSc%20Data%20Science%20%26%20AI%20%7C%20Computer%20Vision%20%26%20Deep%20Learning&descAlignY=75&descSize=20&fontAlignY=35&refresh=1" width="100%"/>
 
 <br/>
 
@@ -187,12 +187,12 @@ No formal work experience yet — currently building applied AI/ML/CV projects i
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ManasMondal2025&show_icons=true&theme=transparent&bg_color=0D1117&title_color=00E5A0&icon_color=00E5A0&text_color=7C8B9B&border_color=00E5A0&hide_border=false" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasMondal2025&layout=compact&theme=transparent&bg_color=0D1117&title_color=00E5A0&text_color=7C8B9B&border_color=00E5A0&hide_border=false" width="35%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ManasMondal2025&show_icons=true&theme=transparent&bg_color=0D1117&title_color=00E5A0&icon_color=00E5A0&text_color=7C8B9B&border_color=00E5A0&hide_border=false&cache_seconds=1800&refresh=1" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasMondal2025&layout=compact&theme=transparent&bg_color=0D1117&title_color=00E5A0&text_color=7C8B9B&border_color=00E5A0&hide_border=false&cache_seconds=1800&refresh=1" width="35%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=ManasMondal2025&theme=dark&background=0D1117&stroke=00E5A0&ring=00E5A0&fire=00E5A0&currStreakLabel=00E5A0&sideLabels=7C8B9B&dates=7C8B9B&border=00E5A0" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=ManasMondal2025&theme=dark&background=0D1117&stroke=00E5A0&ring=00E5A0&fire=00E5A0&currStreakLabel=00E5A0&sideLabels=7C8B9B&dates=7C8B9B&border=00E5A0&refresh=1" width="70%" />
 
 </div>
 
@@ -202,7 +202,7 @@ No formal work experience yet — currently building applied AI/ML/CV projects i
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ManasMondal2025&theme=matrix&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=ManasMondal2025&theme=matrix&no-frame=true&row=1&column=7&refresh=1" />
 
 </div>
 
@@ -212,7 +212,7 @@ No formal work experience yet — currently building applied AI/ML/CV projects i
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManasMondal2025&bg_color=0D1117&color=00E5A0&line=00E5A0&point=7C8B9B&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManasMondal2025&bg_color=0D1117&color=00E5A0&line=00E5A0&point=7C8B9B&area=true&hide_border=true&refresh=1" width="100%" />
 
 </div>
 
