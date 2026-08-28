@@ -202,7 +202,11 @@ No formal work experience yet — currently building applied AI/ML/CV projects i
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ManasMondal2025&theme=matrix&no-frame=true&row=1&column=7&refresh=1" />
+<img
+  src="https://github-profile-trophy-liard-delta.vercel.app/?username=ManasMondal2025&theme=matrix&no-frame=true&row=1&column=7"
+  width="100%"
+  alt="GitHub Profile Trophies"
+/>
 
 </div>
 
@@ -212,12 +216,15 @@ No formal work experience yet — currently building applied AI/ML/CV projects i
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManasMondal2025&bg_color=0D1117&color=00E5A0&line=00E5A0&point=7C8B9B&area=true&hide_border=true&refresh=1" width="100%" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ManasMondal2025&bg_color=0D1117&color=00E5A0&line=00E5A0&point=7C8B9B&area=true&hide_border=true"
+  width="100%"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
 
 <br/>
-
 ## `$ cat summary_cards.json`
 
 <div align="center">
